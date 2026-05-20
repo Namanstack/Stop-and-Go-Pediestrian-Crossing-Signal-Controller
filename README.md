@@ -41,3 +41,5 @@ A countdown timer displays the remaining time for each state transition.
 ## Author
 Naman Samadhiya  
 Electronics Engineering (VLSI Design & Technology)
+Shauryansh 
+Electronics Engineering (VLSI Design & Technology)
